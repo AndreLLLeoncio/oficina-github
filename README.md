@@ -1,4 +1,4 @@
-# Oficina GitHub - versao do branch
+# Oficina GitHub - versao final
 
 Site pessoal criado na Oficina de GitHub da Semana de Informática DCOM 2026.
 
